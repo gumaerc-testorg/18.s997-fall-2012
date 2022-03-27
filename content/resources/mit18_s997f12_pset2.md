@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5c70a418-10f7-6a2f-5887-4d72f74a9f59
 resourcetype: Document
 title: '18.S997 Fall 2012 The Polynomial Method: Problem Set 2'
 uid: 3ae4c7ee-d2c3-8e61-8280-d7684747cda3
