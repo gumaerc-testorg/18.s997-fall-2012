@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, notes, problem sets, and grading policy.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f3ce435b-36c9-245e-6fe0-470486b41a82
 ---
@@ -23,7 +27,7 @@ In the last five years, several open problems from combinatorics have been solve
 
 The polynomial method is also connected to ideas in other areas, including computer science, number theory, and analysis. The polynomial method was based on ideas from computer science. For example, suppose we have a fairly low degree polynomial over a finite field. Suppose we write a table of the values of the polynomial, and then the table gets corrupted, so that one third of the entries are replaced by errors. From this corrupted table, is it possible to recover the original polynomial? Can it be done efficiently? In the 80's and 90's, computer scientists found interesting answers to this type of question. Their approach to polynomials was adapted to attack the combinatorial problems above.
 
-Additionally, the polynomial method is similar to work on Diophantine equations from the early 20th century by Thue and others. This work was important because it gave much more general results than previous methods. Previous methods were usually tailored to one particular Diophantine equation. Thue was able to prove that if P(x,y) is an irreducible homogenous polynomial of degree at least 3, and n is any integer, then the equation P(x,y) = n has only finitely many integer solutions.
+Additionally, the polynomial method is similar to work on Diophantine equations from the early 20{{< sup "th" >}} century by Thue and others. This work was important because it gave much more general results than previous methods. Previous methods were usually tailored to one particular Diophantine equation. Thue was able to prove that if P(x,y) is an irreducible homogenous polynomial of degree at least 3, and n is any integer, then the equation P(x,y) = n has only finitely many integer solutions.
 
 Topics will include:
 
