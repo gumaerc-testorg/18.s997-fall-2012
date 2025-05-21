@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding final project.
-file: /ol-ocw-studio-app/courses/18-s997-the-polynomial-method-fall-2012/2f5a13638fb92a02249bc5787f35206e_MIT18_S997F12_projlist.pdf
+file: /courses/18-s997-the-polynomial-method-fall-2012/2f5a13638fb92a02249bc5787f35206e_MIT18_S997F12_projlist.pdf
 file_size: 101887
 file_type: application/pdf
 learning_resource_types:
