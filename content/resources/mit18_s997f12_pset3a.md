@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding problem set 3.
-file: /ol-ocw-studio-app/courses/18-s997-the-polynomial-method-fall-2012/0da24e1da50f6424827d6fe0da3e1bb4_MIT18_S997F12_pset3a.pdf
+file: /courses/18-s997-the-polynomial-method-fall-2012/0da24e1da50f6424827d6fe0da3e1bb4_MIT18_S997F12_pset3a.pdf
 file_size: 96976
 file_type: application/pdf
 learning_resource_types:
